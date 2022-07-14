@@ -1,2 +1,5 @@
-# ge-programa-o-2022
-Arquibos de jogo
+# ge-programação-2022
+## Arquibos de jogo
+
+
+***Instruções
