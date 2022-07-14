@@ -2,4 +2,6 @@
 ## Arquibos de jogo
 
 
-***Instruções
+***Instruçõe***
+
+👩‍⚕✍
