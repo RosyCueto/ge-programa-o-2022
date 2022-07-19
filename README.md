@@ -1,7 +1,9 @@
 # ge-programação-2022
-## Arquibos de jogo
+## Turma de Terça-feira período da Tarde
 
+- Acréscimo de arquivo HTML 
 
-***Instruçõe***
+- Somente parta testar o funcionamento do GitHub
+
 
 👩‍⚕✍
